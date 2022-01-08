@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+datasets/*
+__pycache__/
+*$.py[cod]/
+results/
+wandb/
+logs/
+saved_model/*
+saved_tokenizer/*
+.DS_Store
+!*.dvc
+!*.gitkeep
+venv/

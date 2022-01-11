@@ -35,3 +35,4 @@ transformers == 4.15.0
 typing-extensions == 4.0.1
 urllib3 == 1.26.8
 uvicorn == 0.16.0
+dvc==2.9.3

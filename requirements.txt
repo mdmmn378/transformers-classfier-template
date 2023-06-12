@@ -31,7 +31,7 @@ tokenizers == 0.10.3
 torch == 1.13.1
 torchtext == 0.11.1
 tqdm == 4.62.3
-transformers == 4.15.0
+transformers == 4.30.0
 typing-extensions == 4.0.1
 urllib3 == 1.26.8
 uvicorn == 0.16.0
